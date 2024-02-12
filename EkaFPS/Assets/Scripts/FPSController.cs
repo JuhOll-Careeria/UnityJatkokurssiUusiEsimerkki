@@ -14,6 +14,9 @@ public class FPSController : MonoBehaviour
     public float airMultiplier;
     bool readyToJump;
 
+
+
+
     [HideInInspector] public float walkSpeed;
     [HideInInspector] public float sprintSpeed;
 
